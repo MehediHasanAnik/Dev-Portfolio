@@ -24,3 +24,9 @@ h1 {
   color: #ffff;
   font-weight: 500;
 }
+.dream_big_container {
+  display: flex;
+}
+.bream_big_img img {
+  width: 80%;
+}
