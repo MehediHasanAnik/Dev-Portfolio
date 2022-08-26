@@ -52,9 +52,9 @@ section {
 }
 .exprience_item {
   width: 40%;
-  margin: 0 5%;
-  padding: 0 5%;
-  box-shadow: 10px 10px 5px gray;
+  margin-left: 5%;
+  padding-left: 5%;
+  box-shadow: 5px 7px 40px gray;
 }
 .expriences {
   background-image: url("images/exp-bg.png");
@@ -65,4 +65,10 @@ section {
 }
 .item_two {
   border-left: 5px solid #0400ff;
+}
+.exprience_item h1 {
+  font-size: 40px;
+}
+footer {
+  text-align: center;
 }
